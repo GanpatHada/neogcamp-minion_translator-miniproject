@@ -116,6 +116,11 @@ main p{
 main div{
     text-align: center;
 }
+i{
+    font-size: 24px;
+    margin: 10px 5px;
+    color: var(--secondarycolor);
+}
 @media only screen and (max-width: 1000px)  {
     textarea{
         width: 90vw;
